@@ -14,9 +14,9 @@ Recién graduado como full stack developer. Buscando aplicar mis nuevas habilida
 
 
 ## 👨‍💻Sobre mí 
-📖 También soy guionista, asi que estoy acostumbrado a leer horas y horas un documento. <br>
-📻 Tengo un podcast de Los Simpson. Proletario y Parásito. <br>
-🎙 Hago Stand-up comedy y tengo mi show en Madrid, sé como tratar con la gente <br>
+📖 También soy guionista, asi que estoy acostumbrado a darle vueltas y vueltas a un texto. Vamos, como un programador. <br>
+📻 Tengo un podcast de Los Simpson "Proletario y Parásito" Siempre hay una referencia perfecta para cada ocasión. <br>
+🎙 Hago Stand-up comedy y tengo mi show en Madrid, sé como tratar con la gente. <br>
 
 ## PROYECTOS
 ⬇️ ⬇️ ⬇️ ⬇️ ⬇️ ⬇️ ⬇️ ⬇️ ⬇️ ⬇️ ⬇️ ⬇
