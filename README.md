@@ -1,8 +1,8 @@
-👋 Soy Alberto, encantado.
+<h1>👋 Soy Alberto, encantado. </h1>
 Recién graduado como full stack developer. Buscando aplicar mis nuevas habilidades en proyectos. Mientras tanto aquí puedes ver lo cómo me entretengo.
 
 ## 💻 Programas
-<p aling="center">
+<p aling="center" >
   
 <img src="https://github.com/user-attachments/assets/b7a2081f-b9ec-446d-b601-6a89932443ae" width="40" height="40" alt="JavaScript" />
 <img src="https://github.com/user-attachments/assets/ad8ee40e-d4ce-4266-818b-ecbbea4f6777" width="40" height="40" alt="Node.js" />
