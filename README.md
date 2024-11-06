@@ -1,5 +1,5 @@
 <h1>👋 Soy Alberto, encantado. </h1>
-Recién graduado como full stack developer. Buscando aplicar mis nuevas habilidades en proyectos. Mientras tanto aquí puedes ver lo cómo me entretengo.
+Recién graduado como full stack developer. Buscando aplicar mis nuevas habilidades en proyectos. Mientras tanto aquí puedes ver cómo me entretengo.
 
 ## 💻 Programas
 <p aling="center" >
