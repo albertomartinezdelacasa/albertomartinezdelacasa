@@ -1,5 +1,22 @@
-<h1>👋 Soy Alberto, encantado. </h1>
-Recién graduado como full stack developer. Buscando aplicar mis nuevas habilidades en proyectos. Mientras tanto aquí puedes ver cómo me entretengo.
+<h1 aling="center">👋 Soy Alberto, encantado. </h1>
+
+🔍 Buscando activamente un rol como Junior Developer (Web o Full Stack)
+
+🏫 Formación: He finalizado un Bootcamp de Desarrollo Web Full Stack en Hack A Boss.
+
+🌱 Actualmente profundizando más en React y Vue.
+
+💻 Mis proyectos: Varios en proceso, algunos más locos que otros. 
+
+📫 Contáctame:
+
+Email: albertomgraupera@gmail.com.
+
+LinkedIn:
+
+<a href=" https://www.linkedin.com/in/alberto-martinez-de-la-casa-graupera/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alexander-perez-banks" height="30" width="40" /></a>
+
+⚡ Dato curioso: Tengo un podcast de Los Simpson "Proletario y Parásito"
 
 ## 💻 Programas
 <p aling="center" >
@@ -11,12 +28,6 @@ Recién graduado como full stack developer. Buscando aplicar mis nuevas habilida
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2560px-HTML5_logo_and_wordmark.svg.png" width="40" height="40" alt="HTML" />
 <img src="https://w7.pngwing.com/pngs/170/924/png-transparent-microsoft-sql-server-microsoft-azure-sql-database-microsoft-text-logo-microsoft-azure-thumbnail.png" width="40" height="40" alt="HTML" />
 </p>
-
-
-## 👨‍💻Sobre mí 
-📖 También soy guionista, asi que estoy acostumbrado a darle vueltas y vueltas a un texto. Vamos, como un programador. <br>
-📻 Tengo un podcast de Los Simpson "Proletario y Parásito" Siempre hay una referencia perfecta para cada ocasión. <br>
-🎙 Hago Stand-up comedy y tengo mi show en Madrid, sé como tratar con la gente. <br>
 
 ## PROYECTOS
 ⬇️ ⬇️ ⬇️ ⬇️ ⬇️ ⬇️ ⬇️ ⬇️ ⬇️ ⬇️ ⬇️ ⬇
