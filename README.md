@@ -14,7 +14,9 @@ Email: albertomgraupera@gmail.com.
 
 LinkedIn:
 
-<a href=" https://www.linkedin.com/in/alberto-martinez-de-la-casa-graupera/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alexander-perez-banks" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/alberto-martinez-de-la-casa-graupera/" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin-beto" height="30" width="40" />
+</a>
 
 ⚡ Dato curioso: Tengo un podcast de Los Simpson "Proletario y Parásito"
 
