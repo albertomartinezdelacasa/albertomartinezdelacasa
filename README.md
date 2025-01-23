@@ -4,7 +4,7 @@
 
 🏫 Formación: He finalizado un Bootcamp de Desarrollo Web Full Stack en Hack A Boss.
 
-🌱 Actualmente profundizando más en React y Vue.
+🌱 Actualmente profundizando más en React, Next y Typescript.
 
 💻 Mis proyectos: Varios en proceso, algunos más locos que otros. 
 
